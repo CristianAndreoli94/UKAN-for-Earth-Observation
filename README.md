@@ -1,5 +1,5 @@
 # UKAN-for-Earth-Observation
-**Ongoing research, stay tuned for updates. Expected preprint for August**
+**Ongoing research, more information will be shared soon. Expected preprint for August.**
 
 
 
