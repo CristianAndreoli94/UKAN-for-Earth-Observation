@@ -18,7 +18,7 @@
 ### GradCam Unet vs Ukan
 Original FTW 3 class model on the left. Augmented 3 class model on the right.  
 Click the image for full resolution view.
-![DUSAF Zero-Shot](images/GradCam_grid.png)
+![DUSAF Zero-Shot](images/GradCam_grid_updated.png)
 
 ### DUSAF Zero-Shot
 Original FTW 3 class model on the left. Augmented 3 class model on the right.  
