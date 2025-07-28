@@ -5,13 +5,13 @@
 
 ## Authors
 - [Cristian Andreoli](https://github.com/CristianAndreoli94/)  
-  *MSc in Data Science, Department of Electrical, Computer and Biomedical Engineering, University of Pavia*  
+  *MSc in Data Science, Department of Electronic and Information Engineering, University of Pavia*  
 
 - [Leonardo Magliolo](https://github.com/MaglioloLeonardo)  
   *MSc in Artificial Intelligence, Department of Computer Science, University of Turin*  
 
 - [Fabio Dell'Acqua](http://tlclab.unipv.it/index.php/people/the-team?view=article&id=75&catid=23)  
-  *Full Professor of Remote Sensing, Department of Electrical, Computer and Biomedical Engineering, University of Pavia*  
+  *Full Professor of Remote Sensing, Department of Electronic and Information Engineering, University of Pavia*  
 
 ---
 
