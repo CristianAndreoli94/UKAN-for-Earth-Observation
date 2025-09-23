@@ -1,5 +1,5 @@
 # UKAN-for-Earth-Observation
-**Ongoing research, more information will be shared soon. Expected preprint for August.**
+**Ongoing research, more information will be shared soon.**
 
 ---
 
@@ -14,11 +14,6 @@
   *Full Professor of Remote Sensing, Department of Electronic and Information Engineering, University of Pavia*  
 
 ---
-
-### GradCam Unet vs Ukan
-Original FTW 3 class model on the left. Augmented 3 class model on the right.  
-Click the image for full resolution view.
-![Gradcams](images/GradCam_grid.png)
 
 ### DUSAF Zero-Shot
 Original FTW 3 class model on the left. Augmented 3 class model on the right.  
