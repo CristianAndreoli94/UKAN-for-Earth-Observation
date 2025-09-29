@@ -8,7 +8,7 @@
   *MSc in Data Science, Department of Electronic and Information Engineering, University of Pavia*  
 
 - [Leonardo Magliolo](https://github.com/MaglioloLeonardo)  
-  *MSc in Artificial Intelligence, Department of Computer Science, University of Turin* one\
+  *MSc in Artificial Intelligence, Department of Computer Science, University of Turin* \
   *PHD Student, Grounding the information flow for frugal AI, Télécom Paris*  
 
 - [Fabio Dell'Acqua](http://tlclab.unipv.it/index.php/people/the-team?view=article&id=75&catid=23)  
