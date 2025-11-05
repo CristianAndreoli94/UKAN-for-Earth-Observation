@@ -1,5 +1,6 @@
 # UKAN-for-Earth-Observation
-**Ongoing research, more information will be shared soon.**
+**The research is now completed and the manuscript is being submitted to the ISPRS Journal of Photogrammetry and Remote Sensing. \
+Preprint will be available soon.**
 
 ---
 
